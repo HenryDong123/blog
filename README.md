@@ -1,3 +1,2 @@
 #blog
-this is my diudiudiu
-##second
+This is my first commit
