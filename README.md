@@ -1,4 +1,4 @@
 # blog
 This is my first commit.
 
-## This is my second commit but
+This is my second commit but
